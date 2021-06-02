@@ -1,5 +1,5 @@
 <h3 align="center">👋 hey, I'm Hoang-Long Nguyen.</h3>
-<p align="center">I'm a web developer 📝. I'm proficient in JS and some related framework. 🚀</p>
+<p align="center">I'm a web developer 📝. I'm proficient in JS and some related frameworks. 🚀</p>
 
 ---
 
