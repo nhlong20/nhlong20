@@ -2,9 +2,9 @@
 
 ---
 
-*🔭 I’m currently working on Java coursework at my University
-*🌱 I’m currently learning Python also, it's pretty cool
-* 📫 Feel free to ping me on Facebook [Hoàng Long](https://www.facebook.com/kari.oops/)
+- 🔭 I’m currently working on Java coursework at my University
+- 🌱 I’m currently learning Python also, it's pretty cool
+- 📫 Feel free to ping me on Facebook [Hoàng Long](https://www.facebook.com/kari.oops/)
 <!--
 **nhlong20/nhlong20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
