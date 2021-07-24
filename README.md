@@ -4,5 +4,4 @@
 ---
 
 - 🔭 I’m currently working on Java coursework at my University
-- 🌱 I’m currently learning Python also, it's pretty cool
 - 📫 Feel free to ping me on [Facebook](https://www.facebook.com/kari.oops/) or [LinkedIn](https://www.linkedin.com/in/nhlong20/)
