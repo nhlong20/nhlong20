@@ -1,7 +1,5 @@
 <h3 align="center">👋 hey, I'm Hoang-Long Nguyen.</h3>
-<p align="center">I'm a web developer 📝. I'm proficient in JS and some related frameworks. 🚀</p>
+<p align="center">I'm a minimalism guy who love to talk and learn🚀</p>
 
 ---
-
-- 🔭 I’m currently working on Java coursework at my University
 - 📫 Feel free to ping me on [Facebook](https://www.facebook.com/kari.oops/) or [LinkedIn](https://www.linkedin.com/in/nhlong20/)
